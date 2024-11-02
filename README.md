@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yedukrishnan K P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently woking as an Intern at **TouchWorld Technology**
 
 - 📫 How to reach me **kpyedukrishnan42@gmail.com**
 
